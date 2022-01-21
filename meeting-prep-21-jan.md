@@ -8,7 +8,7 @@ Preface: I've done some of my own research over the last week or so. Thus, we ma
 
 <summary>View Model</summary>
 
-![./model](./model.png)
+![./model](./model.jpeg)
 
 </details>
 
@@ -18,13 +18,13 @@ Preface: I've done some of my own research over the last week or so. Thus, we ma
 
 * My Conventional Wisdom! Does it make sense? Has this kind of thing been thought about?
 
-<!--<details>-->
+<details>
 
-<summary>View My Potentially Naive Conventional Wisdom (Hah!)</summary>
+<summary>View My Potentially Naive Conventional Wisdom (Hah!) - We can discuss these if there is time.</summary>
 
 Through reviewing papers, this is just what I've been thinking about:
 
-Given:
+**Given:**
 
 > "Specifically, we argue that OSS community networks characterized by small-world properties would positively influence the productivity of the member developers by providing them with speedy and reliable access to more quantity and variety of information and knowledge resources."  
 > 
@@ -32,7 +32,7 @@ Given:
 
 *Singh, P.V., 2010. The small-world effect: The influence of macro-level properties of developer collaboration networks on open-source project success. ACM Transactions on Software Engineering and Methodology (TOSEM), 20(2), pp.1-27.*
 
-Further, when considering:
+**Further, when considering:**
 
 *Hill, R.A., Dunbar, R.I.M. Social network size in humans. Hum Nat 14, 53–72 (2003). https://doi.org/10.1007/s12110-003-1016-y*
 
@@ -40,7 +40,7 @@ Further, when considering:
 
 Given our working groups, it would appear that multiple small world networks topologies contained within the DAO have emerged, with edges linking these networks together. Furthermore, one may somewhat speculatively consider the cardinality (size) of the set of ADAO members (and assume a degree of variance in member activity), resulting (again, somewhat speculatively) in a size that approximates 'Dunbars Number' (150). In this case, strictly speaking, it's 50% larger, but again, considerations of variance.
 
-So, what does this mean?
+**So, what does this mean?**
 
 Since optimal sizes for SMEs is ~= 150, when setting (I wouldn't go as far as saying standards, but perhaps guidelines), providing these resources (or references) as a means to justify containing the core DAO size to ~= 150 may be considered (for optimal performance). Group sizes do spontaneously emerge in a series though (3-5, 9-15, 30-45, ...), this may also be taken into consideration when evaluating the choice of working groups (and how many to construct).
 
@@ -48,7 +48,7 @@ On a final note: if social interfaces exist between DAOs (partnerships and allia
 
 I'll leave my potentially naive 'conventional wisdom' with that!
 
-![wisdom](./naive.png)
+![wisdom](./naive.JPG)
 
 </details>
 
