@@ -6,7 +6,7 @@
 
 **Overview**
 
-The intention behind this discussion is to clarify ones own mental model(s) regarding the design (from a fairly high level of abstraction) of decentralised autonomous organisations and their tooling. Thus, this discussion does not have to include granular technical details, making it accessible for anybody to listen in. It is advantageous to ensure that everybody is on the same page when it comes to modelling complex systems.
+The intention behind this discussion is to clarify ones own mental model(s) regarding the design (from a relatively high level of abstraction) of decentralised autonomous organisations and their tooling. Thus, this discussion does not have to include granular technical details, making it accessible for anybody to listen in. It is advantageous to ensure everybody is on the same page when modelling complex systems.
 
 **Aims & Objectives**
 
@@ -18,8 +18,8 @@ The intention behind this discussion is to clarify ones own mental model(s) rega
 
 **(Possible & Optional) Discussion Points**
 
-* High level architectural design, validating the mental model.
-* Existing implementations, their feature sets and their short-comings.
+* High-level architectural design, validating the mental model.
+* Existing implementations, their feature sets and their shortcomings.
 * Potential for conceptual design debt (path dependencies).
 * Operational mechanisms (proposals, voting).
 * Possible attack vectors.
@@ -29,9 +29,9 @@ The intention behind this discussion is to clarify ones own mental model(s) rega
 * The importance of decentralisation & methodologies for maintaining decentralisation.
 * Sociological and anthropological discussion (optimal group sizes, spontaneous order).
 * Possibly HCI & UX.
-* New and interesting ideas, general discussion, friday night funkin, open forum.
+* New and interesting ideas, general discussion, Friday night funkin, open forum.
 
-**Supplimentary Materials**
+**Supplementary Materials**
 
 My mental model (stack-based & general UML based processes):
 
